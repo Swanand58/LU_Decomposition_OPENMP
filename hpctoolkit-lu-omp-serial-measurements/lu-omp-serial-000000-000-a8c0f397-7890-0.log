@@ -1,0 +1,11 @@
+fnbounds: /projects/comp422/pkgs-src/spack-2022-10/opt/spack/linux-rhel7-x86_64/gcc-11.2.0/hpctoolkit-develop-w2qslmpq7v4bpj3bqu7eemmbrimbr2nj/libexec/hpctoolkit/hpcfnbounds
+MEMORY: segment size: 4.0 meg, num segments: 3, total allocation: 12.0 meg, reclaims: 0
+MEMORY: total freeable: 0.0 meg, total non-freeable: 4.3 meg, malloc failures: 0
+UNWIND ANOMALIES: total: 226227 errant: 0, total-frames: 680757, total-libunwind-fails: 0
+ACC SUMMARY:
+         accelerator trace records: 0 (processed: 0, dropped: 0)
+         accelerator samples: 0 (recorded: 0, dropped: 0)
+SAMPLE ANOMALIES: blocks: 1 (async: 1, dlopen: 0), errors: 0 (segv: 0, soft: 0)
+SUMMARY: samples: 226227 (recorded: 226226, blocked: 1, errant: 0, trolled: 0, yielded: 0),
+         frames: 680757 (trolled: 0)
+         intervals: 443 (suspicious: 0)

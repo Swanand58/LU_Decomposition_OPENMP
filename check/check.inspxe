@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1710797725</timestamp>
+  <hostname type="string">nlogin3</hostname>
+  <os type="string">linux</os>
+  <product type="string">Intel® Inspector 2018 Update 2</product>
+  <buildNumber type="s32_t">551023</buildNumber>
+  <logicalCPUCount type="s32_t">8</logicalCPUCount>
+  <CPUFrequency type="s64_t">2294608000</CPUFrequency>
+  <CPUFamily type="s32_t">6</CPUFamily>
+  <CPUModel type="s32_t">58</CPUModel>
+  <CPUStepping type="s32_t">9</CPUStepping>
+  <CPUBrandName type="string">Intel Xeon E3-12xx v2 (Ivy Bridge, IBRS)</CPUBrandName>
+  <isa type="string">avx</isa>
+  <collectionTimeBegin type="u64_t">1710797725</collectionTimeBegin>
+  <collectionTimeEnd type="u64_t">1710797734</collectionTimeEnd>
+  <variables>
+   <at type="string">ti3</at>
+  </variables>
+ </rdmgr>
+</root>
