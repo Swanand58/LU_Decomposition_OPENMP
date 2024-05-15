@@ -31,8 +31,8 @@ make
 
 To run the program, execute the following command:
 
-```sh./lu_decomposition <matrix_size> <num_threads>
-
+```sh
+./lu_decomposition <matrix_size> <num_threads>
 ```
 
 The program takes two arguments:
